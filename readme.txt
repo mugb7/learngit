@@ -1,2 +1,2 @@
 Git is a great system.
-Git is free.
+Git is free GPL.
