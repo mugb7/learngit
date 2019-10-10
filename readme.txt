@@ -1,2 +1,2 @@
-Git is a system.
+Git is a great system.
 Git is free.
